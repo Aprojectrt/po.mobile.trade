@@ -1,5 +1,8 @@
 {
   "check":"false",
   "loadValue":"https://google.com",
-  "load":"RU","KZ","UA"
+  "load":{
+    "UA",
+    "RU"
+  }
 }
